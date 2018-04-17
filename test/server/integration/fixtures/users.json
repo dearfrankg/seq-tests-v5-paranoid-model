@@ -1,0 +1,30 @@
+[
+  {
+    "user_id": 9999100,
+    "email": "joe@walmart.com",
+    "pass": "xxx",
+    "first_name": "Joe",
+    "last_name": "Smith"
+  },
+  {
+    "user_id": 9999101,
+    "email": "sam@walmart.com",
+    "pass": "xxx",
+    "first_name": "Sam",
+    "last_name": "Smith"
+  },
+  {
+    "user_id": 9999102,
+    "email": "mark@walmart.com",
+    "pass": "xxx",
+    "first_name": "Mark",
+    "last_name": "Smith"
+  },
+  {
+    "user_id": 9999103,
+    "email": "chris@walmart.com",
+    "pass": "xxx",
+    "first_name": "Chris",
+    "last_name": "Smith"
+  }
+]

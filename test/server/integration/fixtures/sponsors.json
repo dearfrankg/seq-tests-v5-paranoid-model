@@ -1,0 +1,94 @@
+[
+  {
+    "name": "First Post",
+    "tags": [
+      {
+        "tenant_id": 1,
+        "taxonomy": "sponsor",
+        "description": "blank description",
+        "count": 0,
+        "terms": {
+          "name": "first tag",
+          "term_group": 0
+        },
+        "image": {
+          "tenant_id": 1,
+          "clickthrough": "http://www.yahoo.com",
+          "title": "yahoo.com",
+          "name": "yahoo",
+          "url": "http://www.northeastern.edu/levelblog/wp-content/uploads/2017/10/yahoo.png",
+          "alt_text": "yahoo logo"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Second Post",
+    "tags": [
+      {
+        "tenant_id": 1,
+        "taxonomy": "sponsor",
+        "description": "blank description",
+        "count": 0,
+        "terms": {
+          "name": "tag2",
+          "term_group": 0
+        },
+        "image": {
+          "tenant_id": 1,
+          "clickthrough": "http://www.yahoo.com",
+          "title": "yahoo2.com",
+          "name": "yahoo",
+          "url": "http://www.northeastern.edu/levelblog/wp-content/uploads/2017/10/yahoo.png",
+          "alt_text": "yahoo logo"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Third Post",
+    "tags": [
+      {
+        "tenant_id": 2,
+        "taxonomy": "sponsor",
+        "description": "blank description",
+        "count": 0,
+        "terms": {
+          "name": "tag3",
+          "term_group": 0
+        },
+        "image": {
+          "tenant_id": 2,
+          "clickthrough": "http://www.yahoo.com",
+          "title": "yahoo3.com",
+          "name": "yahoo",
+          "url": "http://www.northeastern.edu/levelblog/wp-content/uploads/2017/10/yahoo.png",
+          "alt_text": "yahoo logo"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Fourth Post",
+    "tags": [
+      {
+        "tenant_id": 2,
+        "taxonomy": "sponsor",
+        "description": "blank description",
+        "count": 0,
+        "terms": {
+          "name": "tag4",
+          "term_group": 0
+        },
+        "image": {
+          "tenant_id": 2,
+          "clickthrough": "http://www.yahoo.com",
+          "title": "yahoo4.com",
+          "name": "yahoo",
+          "url": "http://www.northeastern.edu/levelblog/wp-content/uploads/2017/10/yahoo.png",
+          "alt_text": "yahoo logo"
+        }
+      }
+    ]
+  }
+]

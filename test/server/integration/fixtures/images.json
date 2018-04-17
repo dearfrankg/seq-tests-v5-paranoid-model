@@ -1,0 +1,34 @@
+[
+  {
+    "tenant_id": 1,
+    "title": "CatSecurityCamPhoto",
+    "name": "catsecuritycamphoto",
+    "url":
+      "https://caas.editorialtools-preprod.walmart.com/wp-content/uploads/2013/06/catsecuritycamphoto-1.jpeg",
+    "alt_text": "image1"
+  },
+  {
+    "tenant_id": 1,
+    "title": "Roku-3-with-headphones_250x146",
+    "name": "roku-3-with-headphones_250x146",
+    "url":
+      "https://caas.editorialtools-preprod.walmart.com/wp-content/uploads/2013/06/roku-3-with-headphones_250x146-1.jpg",
+    "alt_text": "image2"
+  },
+  {
+    "tenant_id": 2,
+    "title": "GMA Dropcam Foils Burglar",
+    "name": "gma_dropcam_screenshot",
+    "url":
+      "https://caas.editorialtools-preprod.walmart.com/wp-content/uploads/2013/07/gma_dropcam_screenshot-1.png",
+    "alt_text": "image3"
+  },
+  {
+    "tenant_id": 2,
+    "title": "PixieScientificSmartDiapers",
+    "name": "pixiescientificsmartdiapers",
+    "url":
+      "https://caas.editorialtools-preprod.walmart.com/wp-content/uploads/2013/08/pixiescientificsmartdiapers-1.png",
+    "alt_text": "image4"
+  }
+]

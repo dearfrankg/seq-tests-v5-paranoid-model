@@ -1,0 +1,156 @@
+[
+  {
+    "tenant_id": 1,
+    "type": "post",
+    "author_id": 9999100,
+    "status": "Draft",
+    "title": "Me and Suzy",
+    "sanitized_title": "me-and-suzy",
+    "excerpt": "Me and Suzy had so much fun :)",
+    "url": "http://walmart.com",
+    "taxonomies": [
+      {
+        "tenant_id": 1,
+        "taxonomy": "sponsor",
+        "description": "I'm a sponsor",
+        "terms": {
+          "name": "first sponsor"
+        }
+      },
+      {
+        "tenant_id": 1,
+        "taxonomy": "category",
+        "description": "I'm a category",
+        "terms": {
+          "name": "first category"
+        }
+      },
+      {
+        "tenant_id": 1,
+        "taxonomy": "post_tag",
+        "description": "I'm a tag",
+        "terms": {
+          "name": "first tag"
+        }
+      }
+    ],
+    "post_meta": [
+      {
+        "meta_key": "config",
+        "meta_value": "{ \"showbyline\": true }"
+      },
+      {
+        "meta_key": "contributors",
+        "meta_value": "[ 9999101, 9999102 ]"
+      }
+    ]
+  },
+  {
+    "tenant_id": 1,
+    "type": "post",
+    "author_id": 9999100,
+    "status": "Draft",
+    "title": "Days of our lives",
+    "sanitized_title": "days-of-our-lives",
+    "excerpt": "Days of our lives is a soap opera :)",
+    "url": "http://walmart.com",
+    "taxonomies": [
+      {
+        "tenant_id": 1,
+        "taxonomy": "sponsor",
+        "description": "I'm a sponsor",
+        "terms": {
+          "name": "second sponsor"
+        }
+      },
+      {
+        "tenant_id": 1,
+        "taxonomy": "category",
+        "description": "I'm a category",
+        "terms": {
+          "name": "second category"
+        }
+      },
+      {
+        "tenant_id": 1,
+        "taxonomy": "post_tag",
+        "description": "I'm a tag",
+        "terms": {
+          "name": "second tag"
+        }
+      }
+    ]
+  },
+  {
+    "tenant_id": 1,
+    "type": "post",
+    "author_id": 9999100,
+    "status": "Draft",
+    "title": "Pinball Wizard",
+    "sanitized_title": "pinball-wizard",
+    "excerpt": "Pinball Wizard is a song :)",
+    "url": "http://walmart.com",
+    "taxonomies": [
+      {
+        "tenant_id": 1,
+        "taxonomy": "sponsor",
+        "description": "I'm a sponsor",
+        "terms": {
+          "name": "third sponsor"
+        }
+      },
+      {
+        "tenant_id": 1,
+        "taxonomy": "category",
+        "description": "I'm a category",
+        "terms": {
+          "name": "third category"
+        }
+      },
+      {
+        "tenant_id": 1,
+        "taxonomy": "post_tag",
+        "description": "I'm a tag",
+        "terms": {
+          "name": "third tag"
+        }
+      }
+    ]
+  },
+  {
+    "tenant_id": 1,
+    "type": "post",
+    "author_id": 9999100,
+    "status": "Draft",
+    "title": "Barata Plata",
+    "sanitized_title": "barata-plata",
+    "excerpt": "Barata Plata is a Jiu Jitsu move :)",
+    "url": "http://walmart.com",
+    "taxonomies": [
+      {
+        "tenant_id": 1,
+        "taxonomy": "sponsor",
+        "description": "I'm a sponsor",
+        "terms": {
+          "name": "fourth sponsor"
+        }
+      },
+      {
+        "tenant_id": 1,
+        "taxonomy": "category",
+        "description": "I'm a category",
+        "terms": {
+          "name": "fourth category"
+        }
+      },
+      {
+        "tenant_id": 1,
+        "taxonomy": "post_tag",
+        "description": "I'm a tag",
+        "terms": {
+          "name": "fourth tag"
+        }
+      }
+    ]
+  }
+]

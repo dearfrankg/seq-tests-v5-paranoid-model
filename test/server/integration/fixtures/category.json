@@ -1,0 +1,46 @@
+[
+  {
+    "parent": 0,
+    "tenant_id": 1,
+    "taxonomy": "category",
+    "description": "My category",
+    "count": 0,
+    "terms": {
+      "name": "Ideas",
+      "term_group": 0
+    }
+  },
+  {
+    "parent": 1,
+    "tenant_id": 1,
+    "taxonomy": "category",
+    "description": "My other category",
+    "count": 0,
+    "terms": {
+      "name": "Technology",
+      "term_group": 0
+    }
+  },
+  {
+    "parent": 2,
+    "tenant_id": 1,
+    "taxonomy": "category",
+    "description": "test",
+    "count": 0,
+    "terms": {
+      "name": "Video Games",
+      "term_group": 0
+    }
+  },
+  {
+    "parent": 1,
+    "tenant_id": 1,
+    "taxonomy": "category",
+    "description": "test",
+    "count": 0,
+    "terms": {
+      "name": "Outdoors",
+      "term_group": 0
+    }
+  }
+]
